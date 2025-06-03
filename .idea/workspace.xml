@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dee3d5aa-b825-4a09-a360-7a146124029b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/pucmm/ParallelMatrixSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pucmm/ParallelMatrixSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/pucmm/ProducerConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/pucmm/ProducerConsumer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ParallelMatrixSearch.executor": "Run",
+    "Application.ProducerConsumer.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -85,7 +86,7 @@
       <updated>1717649314473</updated>
       <workItem from="1717649316033" duration="2530000" />
       <workItem from="1748920891964" duration="3833000" />
-      <workItem from="1748957116701" duration="26000" />
+      <workItem from="1748957116701" duration="1390000" />
     </task>
     <servers />
   </component>
